@@ -1,0 +1,8 @@
+C:\Users\User\SmartGit\CCHw1\Tema2\SeasonsService\bin\Debug\netstandard2.0\SeasonsService.deps.json
+C:\Users\User\SmartGit\CCHw1\Tema2\SeasonsService\bin\Debug\netstandard2.0\SeasonsService.dll
+C:\Users\User\SmartGit\CCHw1\Tema2\SeasonsService\bin\Debug\netstandard2.0\SeasonsService.pdb
+C:\Users\User\SmartGit\CCHw1\Tema2\SeasonsService\obj\Debug\netstandard2.0\SeasonsService.csprojAssemblyReference.cache
+C:\Users\User\SmartGit\CCHw1\Tema2\SeasonsService\obj\Debug\netstandard2.0\SeasonsService.AssemblyInfoInputs.cache
+C:\Users\User\SmartGit\CCHw1\Tema2\SeasonsService\obj\Debug\netstandard2.0\SeasonsService.AssemblyInfo.cs
+C:\Users\User\SmartGit\CCHw1\Tema2\SeasonsService\obj\Debug\netstandard2.0\SeasonsService.dll
+C:\Users\User\SmartGit\CCHw1\Tema2\SeasonsService\obj\Debug\netstandard2.0\SeasonsService.pdb
